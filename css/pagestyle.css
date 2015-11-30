@@ -6,3 +6,9 @@ resize: none;
  -webkit-transition: 0.05s;
  -o-transition: 0.05s;
 }
+
+.textareaPadding
+{
+    padding-left: 20px;
+    padding-right: 20px;
+}
